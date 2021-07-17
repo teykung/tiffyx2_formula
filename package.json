@@ -1,0 +1,21 @@
+{
+  "name": "formula",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.3",
+    "git": "^0.1.5",
+    "nuxt": "^2.14.12",
+    "@nuxtjs/axios": "^5.12.5",
+    "nuxtjs-mdi-font": "^1.0.2"
+  }
+}
